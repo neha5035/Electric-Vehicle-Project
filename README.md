@@ -2,6 +2,8 @@
 
 The primary objective of this project is to understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 
+Tools used: Microsoft Excel, Microsoft Power BI
+
 Visualizations Includes:
 1. Donut charts
 2. Area charts
